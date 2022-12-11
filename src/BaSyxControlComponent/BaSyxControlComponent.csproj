@@ -8,15 +8,15 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="EasyModbusTCP" Version="5.6.0" />
-        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+        <PackageReference Include="EasyModbusTCP.NETCore" Version="1.0.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
         <PackageReference Include="BaSyx.AAS.Server.Http" Version="1.0.0" />
         <PackageReference Include="BaSyx.Common.UI" Version="1.0.0" />
         <PackageReference Include="BaSyx.Common.UI.Swagger" Version="1.0.0" />
         <PackageReference Include="BaSyx.Models.Export" Version="1.0.0" />
         <PackageReference Include="BaSyx.Registry.Client.Http" Version="1.0.0" />
-        <PackageReference Include="NLog.Web.AspNetCore" Version="5.1.1" />
-        <PackageReference Include="System.IO.Ports" Version="6.0.0" />
+        <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.0" />
+        <PackageReference Include="System.IO.Ports" Version="7.0.0" />
     </ItemGroup>
 
     <ItemGroup>
