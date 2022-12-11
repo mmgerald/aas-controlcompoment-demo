@@ -27,7 +27,7 @@ public class ModbusClient : IDisposable
     public int PollingTimeMs { get; set; } = 2000;
     public int ReconnectTimeMs { get; set; } = 3000;
     public bool IsAutoReconnectEnabled { get; set; } = true;
-    public string IpAddress { get; set; } = "127.0.0.1";
+    public string IpAddress { get; set; } = "20.82.13.28";
     public int Port { get; set; } = 502;
 
 
